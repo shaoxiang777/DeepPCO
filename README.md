@@ -3,7 +3,7 @@
 Contains the development work needed to establish visual odometry. 
 
 We've included 2D encoded panoramic depth images, which are generated from KITTI odometry datasets.
-Note that there is a difference between point cloud data in KITTI raw data and KITTI odometry datasets, and the model trained on odometry datasets will perform poorly on raw data and vice versa.
+Note that there is a difference between point cloud data in KITTI raw data and KITTI odometry datasets, and the model trained on odometry datasets will perform poorly on raw data.
 
 ## Directory structure
 
